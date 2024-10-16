@@ -1,0 +1,5 @@
+pandas
+wordcloud
+arabic-reshaper
+python-bidi
+openpyxl
