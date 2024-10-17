@@ -1,4 +1,4 @@
-# Arabic Word Cloud Generator
+# Arabic Word Cloud Generator From Excel
 
 ## Overview
 
